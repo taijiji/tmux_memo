@@ -1,7 +1,7 @@
 # tmux_memo
 tmux memo
 
-# Commands
+# Default Commands
 
 start tmux
 
