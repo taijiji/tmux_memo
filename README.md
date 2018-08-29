@@ -39,7 +39,7 @@ $ vi ~./bashrc
 
 alias tmux="LD_LIBRARY_PATH=/usr/local/lib /usr/local/bin/tmux"
 
-$ source  ~./bashrc
+$ source  ~/.bashrc
 ```
 
 # Default Commands
